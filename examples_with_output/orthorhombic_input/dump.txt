@@ -1,0 +1,13 @@
+initial configuration energy= -3.1717e+01 eV/atom, CPU: 8.9
+
+1    NE = -3.1717e+01 eV/atom dE =  0.0000e+00 vs.   0 pert:T4 Out: mcA CR:   1 SL =   1 CPU: 26.9 
+2    NE = -3.1262e+01 eV/atom dE =  4.5424e-01 vs.   0 pert:T6 Out: R   CR:   2 SL =   2 CPU: 78.1 
+3    NE = -3.1717e+01 eV/atom dE =  2.5000e-10 vs.   0 pert:T6 Out: mcA CR:   3 SL =   2 CPU: 112.4 
+4    NE = -3.1546e+01 eV/atom dE =  1.7096e-01 vs.   0 pert:T6 Out: R   CR:   4 SL =   3 CPU: 247.4 
+5    NE =  2.5000e+18 eV/atom dE =  2.5000e+18 vs.   0 pert:T4 Out: cR  CR:   5 SL =   2 CPU: 297.6 
+6    NE = -3.1466e+01 eV/atom dE =  2.5052e-01 vs.   0 pert:T5 Out: R   CR:   6 SL =   4 CPU: 469.8 
+7    NE = -3.1586e+01 eV/atom dE =  1.3044e-01 vs.   0 pert:T5 Out: R   CR:   7 SL =   4 CPU: 649.6 
+
+
+lowest energy configuration is step: 0 energy = -31.71670925 eV/atom, structures relaxed: 8
+

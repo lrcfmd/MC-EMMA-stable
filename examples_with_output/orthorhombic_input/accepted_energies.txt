@@ -1,0 +1,4 @@
+
+0    NE = -31.71670925                        eV/atom
+1    NE = -31.71670925                        eV/atom MCA
+3    NE = -31.71670925                        eV/atom MCA
