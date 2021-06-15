@@ -1,4 +1,4 @@
-from emma_stable.mc_emma import *
+from emma.mc_emma import *
 import numpy
 """ hexagonal structures """
 
