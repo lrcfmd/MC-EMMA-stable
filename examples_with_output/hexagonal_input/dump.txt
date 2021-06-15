@@ -1,0 +1,12 @@
+initial configuration energy= -2.3990e+01 eV/atom, CPU: 444.1
+
+1    NE =  1.3889e+18 eV/atom dE =  1.3889e+18 vs.   0 pert:T6 Out: cR  CR:   1 SL =  16 CPU: 1463.3 
+
+
+lowest energy configuration is step: 0 energy = -23.98988350 eV/atom, structures relaxed: 2
+
+2    NE = -2.4036e+01 eV/atom dE = -4.5956e-02 vs.   2 pert:T2 Out: A   CR:   0 SL =   8 CPU: 92.2 
+
+
+lowest energy configuration is step: 2 energy = -24.03583937 eV/atom, structures relaxed: 3
+
