@@ -1,0 +1,23 @@
+potential set:[3 1 3 3]
+species
+O shel -2.9
+O core 0.9
+buck
+O shel O shel 22764 0.149 27.88 0.00 12.00
+spring
+O 70
+species
+In core 3
+buck
+In core O shel 1495.65  0.3327  4.33 0.00 12.00
+species
+Al core 3.00
+buck
+Al core O shell 1063.75  0.3118 0.0 0.0 12.0
+species
+Ba shel 1.831
+Ba core 0.169
+buck
+Ba shel O shel 864.536 0.38729 0.00 0.00 12.00
+spring
+Ba 34.05
