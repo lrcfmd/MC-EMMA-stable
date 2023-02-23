@@ -393,8 +393,8 @@ pert=(
     t_i = time.time()
     print("\n--------------------------------------------------------------")
     print("|                                                            |")
-    print("|              Monte-Carlo EMMA v 4.01                       |")
-    print("| Updated 23-02-2023                                        |")
+    print("|              Monte-Carlo EMMA v 4.00                       |")
+    print("|                                                            |")
     print("--------------------------------------------------------------") 
     if sl and A_Mods and B_Mods and charges and composition != '' :
         if output == 'full':
